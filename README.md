@@ -17,7 +17,6 @@ I write code for rationality
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
       ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=real-devance&theme=synthwave&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=real-devance&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=real-devance&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-devance&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
